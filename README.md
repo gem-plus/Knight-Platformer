@@ -78,7 +78,7 @@ Play as a knight, collect coins, dodge slimes, and survive as long as you can!
 1. Download and install [Godot 4.4](https://godotengine.org/download)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/gem-plus/game
+   git clone https://github.com/gem-plus/Knight-Platformer
    ```
 3. Open Godot → **Import Project** → select the `project.godot` file
 4. Hit **Play** ▶️
