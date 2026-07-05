@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxrpwf5irah0o"]
+
+[ext_resource type="Texture2D" uid="uid://b2b0scwtabc1i" path="res://assets/sprites/world_tileset.png" id="1"]
+
+[node name="bush" type="Sprite2D"]
+texture = ExtResource("1")
+region_enabled = true
+region_rect = Rect2(16, 48, 16, 17)

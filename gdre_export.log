@@ -1,0 +1,34 @@
+GDRE Tools v2.5.0
+Windows 10.0.26200, AMD Radeon(TM) Graphics, vulkan
+Opening file: C:/Users/ac701/Downloads/Tutorial 1.exe
+Guessing bytecode revision from engine version: 4.2.2 (rev 0x77af6ca)
+Loaded 27 imported files
+Detected Engine Version: 4.2.2
+Detected Bytecode Revision: 4.3.0-stable (77af6ca)
+Verified 63 files, no errors detected!
+Extracted 63 files, no errors detected!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     0
+Failed scripts:                         0
+Imported resources for export session:  27
+Successfully converted:                 27
+Lossy:                                  1
+Rewrote metadata:                       17
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.2.2 to edit the project.
+
+*******************************************************************************
+
